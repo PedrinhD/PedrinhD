@@ -1,5 +1,9 @@
-## 👋 Olá mundo!, me chamo João Pedro
+### Olá 👋️, Sou o João Pedro
+Sou apenas um amador na aréa da programação.
+Fique avontade. Estou sempre por aqui!!!
 
-Sou apenas um intusiasta por tecnologias & mecanica. Tenho 21 sou estudante amador na areá de programação.
+- Atualmente estou cursando **Analise de Desenvolvimente de Sistemas**
 
-Atualmente estou me especializando no desenvolvimento web. 
+- Meu foco atualmente é me torna um programador front-end
+
+- Caso queira conversas comigo aki esta meu e-mail: dev.pedrinh@gmail.com
