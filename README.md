@@ -6,4 +6,4 @@ Fique avontade. Estou sempre por aqui!!!
 
 - Meu foco atualmente é me torna um programador front-end
 
-- Caso queira conversas comigo aki esta meu e-mail: dev.pedrinh@gmail.com
+- Fale comigo este é meu e-mail para contato: dev.pedrinh@gmail.com
